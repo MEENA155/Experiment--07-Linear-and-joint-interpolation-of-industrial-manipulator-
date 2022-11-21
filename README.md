@@ -42,7 +42,7 @@ Register Number : 212221240028
 DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation 
 
 ```
-
+### DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation output
 
 ![image](https://user-images.githubusercontent.com/94677128/203054888-55163fad-89b0-40d9-abf7-02e714b1fa4b.png)
 
@@ -63,8 +63,9 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 ## Robot movements 
 
 
+![robo2](https://user-images.githubusercontent.com/94677128/203058054-29e2e27c-f2ba-4a1d-98a4-c3ae907c0c74.jpeg)
+![robo3](https://user-images.githubusercontent.com/94677128/203058181-cbff12cb-7b12-43b2-b0dd-8b9e27f80b56.jpeg)
 
-https://github.com/Sucharithachowdary/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 
 
