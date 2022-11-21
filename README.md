@@ -41,7 +41,7 @@ Name : Meena .S
 Register Number : 212221240028
 DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation 
 
-
+```
 
 
 ![image](https://user-images.githubusercontent.com/94677128/203054888-55163fad-89b0-40d9-abf7-02e714b1fa4b.png)
@@ -64,14 +64,7 @@ DART studio screen shots for linear interpolation and DART studio screen shots f
 
 
 
-![image](https://user-images.githubusercontent.com/94677128/203055400-97ea19a3-f3be-4fd8-8896-923f4323a00f.png)
-
-![image](https://user-images.githubusercontent.com/94677128/203055444-55e1482d-b158-46da-ba1d-09ba0cae4a0b.png)
-
-
-![robo2](https://user-images.githubusercontent.com/94677128/203056003-516b75cb-3c63-49fe-b08f-23f0fd52afe4.jpg)
-
-
+https://github.com/Sucharithachowdary/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 
 
