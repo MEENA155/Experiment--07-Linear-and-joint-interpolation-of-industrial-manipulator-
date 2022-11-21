@@ -32,30 +32,17 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ![Robot-interpolation-PTP-LIN-CIRC](https://user-images.githubusercontent.com/36288975/201615171-d0886aaa-8220-4b0c-8a1d-3d8a5c69c76a.png)
 
-### Figure -01 difference between P-P , joint and linear interpolation 
+## Figure -01 difference between P-P , joint and linear interpolation 
 
 
-### Program : 
-DART studio screen shots for linear interpolation 
+## Program : 
+```
+Name : Meena .S
+Register Number : 212221240028
+DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation 
 
 
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
-
-### Robot movements 
+![image](https://user-images.githubusercontent.com/94677128/203044336-7ef74add-9a3d-49db-8822-61f768af8f33.png)
 
 
 
@@ -70,4 +57,24 @@ DART studio screen shots for joint interpolation
 
 
 
-### Results:  
+
+
+## Robot movements 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
